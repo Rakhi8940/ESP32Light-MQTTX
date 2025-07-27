@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/10/ESP32-board-Built_in-LED-turned-on-HIGH.jpg?resize=750%2C422&quality=100&strip=all&ssl=1"
+  <img src="https://github.com/user-attachments/assets/149ff0ef-cab9-4419-a96b-191053bf2661"
        alt="BrightESP32-MQTTX Logo"
        width="150"
        height="120"
