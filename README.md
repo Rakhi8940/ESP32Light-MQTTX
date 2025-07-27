@@ -1,21 +1,25 @@
 <p align="center">
-  <!-- Project logo from an online source (example: GitHub, Wikimedia, or Unsplash). Replace with your own if needed. -->
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/esp32/esp32.png" alt="BrightESP32-MQTTX Logo" width="160" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
+       alt="BrightESP32-MQTTX Logo"
+       width="90"
+       height="90"
+       style="border-radius: 18px; vertical-align: top;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# BrightESP32-MQTTX
+# 🔆 BrightESP32-MQTTX
 
 **Remote LED control with ESP32 using MQTT and EMQX — a simple IoT demo.**
 
 ---
 
-## Project Overview
+## 🚀 Project Overview
 
 BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 microcontroller remotely using the MQTT protocol via the EMQX broker. This project showcases real-time IoT communication and device automation using lightweight messaging.
 
 ---
 
-## Features
+## ✨ Features
 
 - Connects ESP32 to Wi-Fi and EMQX MQTT broker  
 - Subscribes to MQTT topic to receive ON/OFF commands  
@@ -25,15 +29,16 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 
 ---
 
-## Hardware Requirements
+## 🛠️ Hardware Requirements
 
 - ESP32 development board  
 - LED  
+- 220-ohm resistor  
 - Breadboard and jumper wires  
 
 ---
 
-## Software Requirements
+## 💻 Software Requirements
 
 - Arduino IDE  
 - PubSubClient library  
@@ -42,18 +47,30 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 
 ---
 
-## Images
+## 🖇️ Wiring Diagram
 
-> **Add your setup images below.**
->
-> ![ESP32LED](https://github.com/user-attachments/assets/a1ae44fa-aa93-4409-a1b8-470d85ddb2cb)
-
->
-> *Wiring diagram, breadboard setup, or final project photo can be placed here.*
+Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor. Connect the LED cathode (–) to GND.
 
 ---
 
-## Usage
+## 🖼️ Images
+
+<p align="center">
+  <img src="![ESP32LED](https://github.com/user-attachments/assets/eb484be0-9703-4864-b4de-19e8eef6f35f)" width="300" alt="ESP32 or Setup" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
+  <img src="https://github.com/user-attachments/assets/0aa72063-913f-4ff4-bf7e-487401c470be" width="300" alt="Working Example" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
+  <img src="https://github.com/user-attachments/assets/11877db7-8397-413d-9009-1612739714b3" width="300" alt="MQTTX Client" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);"/>
+</p>
+
+---
+
+## ▶️ Video Demonstration
+
+> **Note:** GitHub READMEs do not support direct video embeds.  
+  > To watch the demonstration, [click here to view the video](your_video_link_here).
+
+---
+
+## 📌 Usage
 
 1. Clone or download this repository.
 2. Open `LED_MQTT_Code.ino` in Arduino IDE.
@@ -64,22 +81,34 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 
 ---
 
-## Video Demonstration
+## 📁 Project Structure
 
-> **Embed or link your demonstration video below.**
->
-> 
->
-> *You can also embed a YouTube video or upload a `.mp4` in your repo's `videos/` folder and link here.*
+```
+BrightESP32-MQTTX/
+├── LED_MQTT_Code.ino
+├── images/
+│   ├── esp32-setup.jpg
+│   ├── working.jpg
+│   └── mqttx.jpg
+├── README.md
+└── ...
+```
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## Contact
+## 📬 Contact
 
-For questions or feedback, please contact [yadav.rakhi4321@gmail.com].
+For questions or feedback, please contact [your_email@example.com].
+
+---
+
+<p align="center">
+  <b>BrightESP32-MQTTX</b><br>
+  <i>Control your Home, one LED at a time.</i>
+</p>
