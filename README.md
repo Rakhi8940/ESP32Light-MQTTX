@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/esp32/esp32.png"
-       alt="ESP32 Logo"
-       width="90"
-       height="90"
-       style="border-radius: 18px; vertical-align: top;"/>
+  <img src="![image1](image1)"
+       alt="BrightESP32-MQTTX Logo"
+       width="120"
+       height="120"
+       style="border-radius: 20px; vertical-align: top;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -56,9 +56,14 @@ Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor
 ## 🖼️ Images
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a387a67b-cafb-4628-a48b-4b809f313235" width="300" alt="ESP32 or Setup" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
-  <img src="https://github.com/user-attachments/assets/0aa72063-913f-4ff4-bf7e-487401c470be" width="300" alt="Working Example" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
-  <img src="https://github.com/user-attachments/assets/11877db7-8397-413d-9009-1612739714b3" width="300" alt="MQTTX Client" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);"/>
+  <!-- First row: Only the first image (ESP32/setup) -->
+  <img src="![image1](image1)" width="420" alt="ESP32 or Setup" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13); margin-bottom: 22px;"/>
+</p>
+
+<p align="center">
+  <!-- Second row: Working Example and MQTTX Client, replace src with your actual image paths -->
+  <img src="images/working.jpg" width="420" alt="Working Example" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13); margin-right: 28px;"/>
+  <img src="images/mqttx.jpg" width="420" alt="MQTTX Client" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13);"/>
 </p>
 
 ---
