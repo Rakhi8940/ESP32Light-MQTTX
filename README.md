@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
-       alt="BrightESP32-MQTTX Logo"
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/esp32/esp32.png"
+       alt="ESP32 Logo"
        width="90"
        height="90"
        style="border-radius: 18px; vertical-align: top;"/>
@@ -56,7 +56,7 @@ Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor
 ## 🖼️ Images
 
 <p align="center">
-  <img src="![ESP32LED](https://github.com/user-attachments/assets/eb484be0-9703-4864-b4de-19e8eef6f35f)" width="300" alt="ESP32 or Setup" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
+  <img src="https://github.com/user-attachments/assets/a387a67b-cafb-4628-a48b-4b809f313235" width="300" alt="ESP32 or Setup" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
   <img src="https://github.com/user-attachments/assets/0aa72063-913f-4ff4-bf7e-487401c470be" width="300" alt="Working Example" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10); margin-bottom: 14px;"/>
   <img src="https://github.com/user-attachments/assets/11877db7-8397-413d-9009-1612739714b3" width="300" alt="MQTTX Client" style="border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.10);"/>
 </p>
@@ -66,7 +66,7 @@ Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor
 ## ▶️ Video Demonstration
 
 > **Note:** GitHub READMEs do not support direct video embeds.  
-  > To watch the demonstration, [click here to view the video](your_video_link_here).
+> To watch the demonstration, [click here to view the video](your_video_link_here).
 
 ---
 
@@ -104,7 +104,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For questions or feedback, please contact [your_email@example.com].
+For questions or feedback, please contact [yadav.rakhi4321@gmail.com].
 
 ---
 
