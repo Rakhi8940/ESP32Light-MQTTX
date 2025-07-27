@@ -65,7 +65,7 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 ## ▶️ Video Demonstration
 
 > **Note:** GitHub READMEs do not support direct video embeds.  
-> To watch the demonstration, [click here to view the video](your_video_link_here).
+> To watch the demonstration, [click here to view the video](https://drive.google.com/file/d/1u47Vx0O0Gmj57mZcnNQbpzBtVWDuzljb/view?usp=sharing).
 
 ---
 
