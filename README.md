@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![ESP32](https://github.com/user-attachments/assets/0ae6c0e7-cd8b-44e4-84d1-2ab91d3621c1)"
+  <img src="https://github.com/user-attachments/assets/0ae6c0e7-cd8b-44e4-84d1-2ab91d3621c1"
        alt="BrightESP32-MQTTX Logo"
        width="120"
        height="120"
