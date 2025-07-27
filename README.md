@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ae6c0e7-cd8b-44e4-84d1-2ab91d3621c1"
        alt="BrightESP32-MQTTX Logo"
-       width="120"
+       width="150"
        height="120"
        style="border-radius: 20px; vertical-align: top;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
