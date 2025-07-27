@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Add your project logo below: -->
-  <img src="logo.png" alt="BrightESP32-MQTTX Logo" width="160" />
+  <!-- Project logo from an online source (example: GitHub, Wikimedia, or Unsplash). Replace with your own if needed. -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/esp32/esp32.png" alt="BrightESP32-MQTTX Logo" width="160" />
 </p>
 
 # BrightESP32-MQTTX
@@ -29,7 +29,6 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 
 - ESP32 development board  
 - LED  
-- 220-ohm resistor  
 - Breadboard and jumper wires  
 
 ---
@@ -43,17 +42,12 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 
 ---
 
-## Wiring Diagram
-
-Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor. Connect the LED cathode (–) to GND.
-
----
-
 ## Images
 
 > **Add your setup images below.**
 >
-> ![Project Setup](images/setup-example.jpg)
+> ![ESP32LED](https://github.com/user-attachments/assets/a1ae44fa-aa93-4409-a1b8-470d85ddb2cb)
+
 >
 > *Wiring diagram, breadboard setup, or final project photo can be placed here.*
 
@@ -74,7 +68,7 @@ Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor
 
 > **Embed or link your demonstration video below.**
 >
-> [![Watch the video](images/video-thumbnail.png)](your_video_link_here)
+> 
 >
 > *You can also embed a YouTube video or upload a `.mp4` in your repo's `videos/` folder and link here.*
 
@@ -88,4 +82,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or feedback, please contact [your_email@example.com].
+For questions or feedback, please contact [yadav.rakhi4321@gmail.com].
