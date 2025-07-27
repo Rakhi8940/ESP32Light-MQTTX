@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image1](image1)"
+  <img src="![ESP32](https://github.com/user-attachments/assets/0ae6c0e7-cd8b-44e4-84d1-2ab91d3621c1)"
        alt="BrightESP32-MQTTX Logo"
        width="120"
        height="120"
@@ -47,23 +47,17 @@ BrightESP32-MQTTX demonstrates how to control an LED connected to an ESP32 micro
 
 ---
 
-## 🖇️ Wiring Diagram
-
-Connect the LED anode (+) to GPIO 23 (or your chosen pin) via a 220-ohm resistor. Connect the LED cathode (–) to GND.
-
----
-
 ## 🖼️ Images
 
 <p align="center">
   <!-- First row: Only the first image (ESP32/setup) -->
-  <img src="![image1](image1)" width="420" alt="ESP32 or Setup" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13); margin-bottom: 22px;"/>
+  <img src="https://github.com/user-attachments/assets/a8a8dee1-d139-4784-adf7-0ae482bcd66a" width="420" alt="ESP32 or Setup" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13); margin-bottom: 22px;"/>
 </p>
 
 <p align="center">
   <!-- Second row: Working Example and MQTTX Client, replace src with your actual image paths -->
-  <img src="images/working.jpg" width="420" alt="Working Example" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13); margin-right: 28px;"/>
-  <img src="images/mqttx.jpg" width="420" alt="MQTTX Client" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13);"/>
+  <img src="https://github.com/user-attachments/assets/6d7788c2-141c-41d7-a213-f38569c39382" width="420" alt="Working Example" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13); margin-right: 28px;"/>
+  <img src="https://github.com/user-attachments/assets/761d4fc7-733e-456f-86ee-41d7d8427291" width="420" alt="MQTTX Client" style="border-radius: 14px; box-shadow: 0 2px 16px rgba(0,0,0,0.13);"/>
 </p>
 
 ---
